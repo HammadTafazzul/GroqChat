@@ -1,5 +1,5 @@
-langchain_openai
-langchain_core
-python-dotenv
-streamlit
-langchain_community
+langchain>=0.0.270  
+langchain-core>=0.1.0
+langchain-groq>=0.0.6
+streamlit>=1.22.0
+python-dotenv>=1.0.0
